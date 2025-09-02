@@ -37,3 +37,6 @@ The system uses multiple medical datasets:
 ## Traditional ML Models
  - Random Forest, XGBoost, LightGBM, and other classifiers
  - 10-fold cross-validation for robust performance evaluation
+
+Here is the Kaggle notebook of it- 
+  https://www.kaggle.com/code/sagorahmedmunna/chatbotv26
